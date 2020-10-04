@@ -10,7 +10,7 @@ This is a react app that utilized the Edamam Recipe Search API (https://develope
 
 Here's a walkthrough
 
-<img src='http://g.recordit.co/HNkS1tDqXk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/IJbDen2bEj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
