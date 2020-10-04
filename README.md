@@ -10,7 +10,7 @@ This is a react app that utilized the Edamam Recipe Search API (https://develope
 
 Here's a walkthrough
 
-![github](http://g.recordit.co/pF2aHbDO1H.gif)
+![github](http://g.recordit.co/5nfAC8PuWI.gif)
 ## Notes
 
 This is my first react app that I created, it took sometime geting used to but it was a fun journey and the outcome was worth it at the end.
